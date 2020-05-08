@@ -9,3 +9,6 @@ Hope you like it.
 
 Friday 05/01
 Fist update in main achive .sb3
+
+Thursday 05/07
+Commit with the project GDD
