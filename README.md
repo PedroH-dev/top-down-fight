@@ -12,3 +12,6 @@ Fist update in main achive .sb3
 
 Thursday 05/07
 Commit with the project GDD
+
+-------------------
+Project closed due to limitations in the engine.
